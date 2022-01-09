@@ -699,5 +699,8 @@ font-size: 12px;
 }
 
 .slider-items-2 img{
-  width: 100%;
+  width: auto;
+  max-height: 419px;
+  margin: auto;
+  border-radius: 10px;
 }
